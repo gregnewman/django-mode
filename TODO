@@ -1,0 +1,13 @@
+A quick rundown of the things we'd like to accomplish
+
+Snippets
+========
+Models
+Forms
+Admin
+
+Management Commands
+===================
+runserver
+syncdb
+the rest of the management commands (possibly including django_extensions)
