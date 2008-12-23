@@ -1,0 +1,8 @@
+# contributor: Justin Lilly <justinlilly@gmail.com>
+# --
+class ${1:Modelname}(models.Model):
+    """${2:description)}"""
+    $0
+
+    def __unicode__(self):
+        return u"$3"
