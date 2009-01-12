@@ -1,0 +1,3 @@
+# contributor: Justin Lilly <justinlilly@gmail.com>
+# --
+${1:FIELDNAME} = models.CharField(${2:blank=True}, max_length=${3:150})

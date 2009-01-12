@@ -1,0 +1,1 @@
+${1:FIELDNAME} = models.FilePathField(path="${2:/location/of/choices}"${3:, match="${4:regex}"}${5:, recursive=True})
